@@ -1,0 +1,1 @@
+from .globals import g as g
